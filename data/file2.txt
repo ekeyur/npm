@@ -1,0 +1,5 @@
+Promise.all([ promise1, promise2 ])
+  .then(function (results) {
+    results[0]
+    results[1]
+  })

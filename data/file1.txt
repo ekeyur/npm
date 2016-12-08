@@ -1,0 +1,3 @@
+Full build bluebird.js
+Full build minified bluebird.min.js
+Core build bluebird.core.js
